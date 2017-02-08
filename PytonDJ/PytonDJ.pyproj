@@ -49,9 +49,15 @@
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
+    <Folder Include="bin\" />
     <Folder Include="PytonDJ\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\ConfigureCloudService.ps1" />
+    <Content Include="bin\ps.cmd" />
+    <Content Include="bin\Readme.mht">
+      <SubType>WebBrowser</SubType>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />

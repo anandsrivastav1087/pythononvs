@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/PytonDJ/web.config
+/PytonDJ/web.debug.config
+/PytonDJ/PytonDJ/__pycache__
